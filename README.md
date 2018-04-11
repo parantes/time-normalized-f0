@@ -1,4 +1,6 @@
-# time_normalized_f0
+# time_normalized_f0.praat
+
+[![DOI](https://zenodo.org/badge/129159380.svg)](https://zenodo.org/badge/latestdoi/129159380)
 
 Praat script to perform time-normalization of F0 contours.
 
