@@ -18,7 +18,7 @@ Tab-separated text file containing time-normalized F0 values and metadata for ea
 
 Upon running the script, a window like the one shown below will be shown where the user has to set a number of parameters.
 
-![Script GUI](script-gui.png)
+![Script GUI](figs/script-gui.png)
 
 The parameters are:
 
@@ -42,7 +42,7 @@ Arantes, P. (2015). Time-normalization of fundamental frequency contours: a hand
 
 A prefinal draft of this document can be found at https://www.researchgate.net/profile/Pablo_Arantes/contributions or upon request to the author.
 
-[R code](case-study.R) and [data](case-study.txt) referred to in the text can be found in this repository.
+R code and data file referred to in the text can be found [here](case-study/).
 
 ## License
 
