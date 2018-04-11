@@ -16,7 +16,7 @@ Tab-separated text file containing time-normalized F0 values and metadata for ea
 
 ## Parameters
 
-Upon running the script, a window like the one shown below will be shown where the user has to set a number of parameters.
+Upon running the script, a window like the one below will appear, where the user has to set a number of parameters.
 
 ![Script GUI](figs/script-gui.png)
 
