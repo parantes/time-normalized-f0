@@ -40,7 +40,7 @@ A tutorial describing use cases were it would be appropriate to use time-normali
 
 Arantes, P. (2015). Time-normalization of fundamental frequency contours: a hands-on tutorial. In A. R. Meireles (Ed.), *Courses on Speech Prosody*, pp. 98-123. Newcastle upon Tyne: Cambridge Scholars Publishing.
 
-A prefinal draft of this document can be found at https://www.researchgate.net/profile/Pablo_Arantes/contributions or upon request to the author.
+A prefinal draft of this document can be found [here](https://www.researchgate.net/publication/281595102_Time-normalization_of_fundamental_frequency_contours_a_hands-on_tutorial) or upon request to the author.
 
 R code and data file referred to in the text can be found [here](case-study/).
 
