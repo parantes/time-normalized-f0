@@ -46,6 +46,10 @@ A prefinal draft of this document can be found [here](https://www.researchgate.n
 
 R code and data file referred to in the text can be found [here](case-study/).
 
+## How to cite
+
+Click on the DOI badge above to see instructions on how to cite the script.
+
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations.
